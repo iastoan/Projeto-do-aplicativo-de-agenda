@@ -1,5 +1,5 @@
 # Projeto-do-aplicativo-de-agenda
-.As partes de código e imagem que serão usadas na criação do projeto.
+Esse e um projeto para a criação de um aplicativo de agendamento 
 
 # PAPEIS DOS CONTRIBUIDORES
 
