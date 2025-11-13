@@ -133,7 +133,7 @@ def main(page: ft.Page):
 
     login_btn = ft.ElevatedButton("Entrar", on_click=do_login)
     login_view = ft.Column(
-        [ft.Text("Login (apenas e-mail)", style="headlineMedium"), email_tf, login_btn, login_msg],
+        [ft.Text("Login", style="headlineMedium"), email_tf, login_btn, login_msg],
         horizontal_alignment=ft.CrossAxisAlignment.CENTER,
         alignment=ft.MainAxisAlignment.CENTER,
     )
@@ -259,3 +259,4 @@ if __name__ == "__main__":
     finally:
         stop_event.set()
         monitor_thread.join(timeout=2)
+
