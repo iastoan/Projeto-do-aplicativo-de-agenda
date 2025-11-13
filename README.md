@@ -1,7 +1,7 @@
 # Projeto-do-aplicativo-de-agenda
 .As partes de código e imagem que serão usadas na criação do projeto.
 
-# CONTRIBUIDORES
+# PAPEIS DOS CONTRIBUIDORES
 
 .Os pacipitantes e suas funções são Gustavo Lucena com codigo da agenda e a função de scrum master,Wanserson Santos com a transformação em app e a função de product owner, e a dev team consistindo dos membros Caio Emilio com codigo de notificação,Yan Abílio com front end,e Lucas Alburquerque no codigo de agendamento com a dev team consistindo de todos os membros.
 
