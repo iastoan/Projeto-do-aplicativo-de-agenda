@@ -1,6 +1,12 @@
 import calendar
+#a função do import traz o calendario no codigo sem ter quer colocar dia por dia.
+import locale
+#a funçaõ locale e usada nesse cenario para colocar o calendario em portguês
+locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
+#colocando a definição da lingua que eu quero nesse caso português 
 year=2025
 print(calendar.calendar(year))
+#o year esta para dizer o ano e o print para imprimir no  terminal com o resto do codigo sendo repetições com anos diferentes.
 year=2026
 print(calendar.calendar(year))
 year=2027
@@ -50,4 +56,5 @@ print(calendar.calendar(year))
 year=2049
 print(calendar.calendar(year))
 year=2050
+
 print(calendar.calendar(year))
