@@ -3,11 +3,11 @@ Esse e um projeto para a criação de um aplicativo de agendamento do curso de c
 
 # PAPEIS DOS CONTRIBUIDORES
 
-.Os pacipitantes e suas funções são 
+.Os participantes e suas funções são 
 
 Gustavo Lucena com codigo da agenda e a função de scrum master
 
-Wanserson Santos com a transformação em app e a função de product owner
+Wanderson Santos com a transformação em app e a função de product owner
 
 Caio Emilio com codigo de notificação
 
