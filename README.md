@@ -24,7 +24,7 @@ agendamento de atividades em uma data
 notificação do lembrente marcado
 
 # RNF
-calendario em portugûes
+calendario em português
 
 notificação pelo sms
 
