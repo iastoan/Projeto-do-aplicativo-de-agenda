@@ -1,5 +1,5 @@
 # Projeto-do-aplicativo-de-agenda
-Esse e um projeto para a criação de um aplicativo de agendamento do curso de ciencias da computação do 2 periodo da Uninassau, com o objetivo de agendamento de tarefas e notificação quamdo chegar o dia marcado.
+Esse e um projeto para a criação de um aplicativo de agendamento do curso de ciencias da computação do 2 periodo da Uninassau, com o objetivo de agendamento de tarefas e notificação quando chegar o dia marcado.
 
 # PAPEIS DOS CONTRIBUIDORES
 
