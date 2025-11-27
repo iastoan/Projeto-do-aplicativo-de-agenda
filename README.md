@@ -23,7 +23,7 @@ agendamento de atividades em uma data
 
 notificação do lembrente marcado
 
-#RNF
+# RNF
 calendario em portugûes
 
 notificação pelo sms
@@ -38,4 +38,4 @@ https://trello.com/b/7hFNLd6m/trabalho-para-engenharia-de-software
 
 # prioridade
 
-A prioridade e ter o codigo funcionado e testado neste sprint atual
+A prioridade e ter o aplicativo funcionado e testado neste sprint atual
