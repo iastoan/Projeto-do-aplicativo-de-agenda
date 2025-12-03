@@ -1,5 +1,6 @@
-# Projeto-do-aplicativo-de-agenda
-Esse e um projeto para a criação de um aplicativo de agendamento do curso de ciencias da computação do 2 periodo da Uninassau, com o objetivo de agendamento de tarefas e notificação quando chegar o dia marcado.
+# Calendar arrange
+Esse e um aplicativo com a função de pode fazer um agendamento em um dia especifico e se notificado naquele dia e hora marcado,enqaunto olha um calendario para decidir qual dia terar um lembrente ou não.
+
 
 # PAPEIS DOS CONTRIBUIDORES
 
@@ -15,27 +16,31 @@ Yan Abílio com front end
 
 Lucas Alburquerque no codigo de agendamento
 
-# LISTA DE FUNÇÕES(RF)
+# tecnologias usadas
 
-calendario mostrando os dias da semanas,mês,ano
+.linguagem de programaação: Pyton
 
-agendamento de atividades em uma data
+.Ferramenta usada:vscode
 
-notificação do lembrente marcado
+.Framework flet
 
-# RNF
-calendario em português
+# como instalar
 
-notificação pelo sms
+# como executar
 
-repetições dos avisos
+# PAPEIS DOS CONTRIBUIDORES
 
+.Os participantes e suas funções são 
 
+Gustavo Lucena com codigo da agenda e a função de scrum master
+
+Wanderson Santos com a transformação em app e a função de product owner
+
+Caio Emilio com codigo de notificação
+
+Yan Abílio com front end
 
 # LINK DO TRELO
 
 https://trello.com/b/7hFNLd6m/trabalho-para-engenharia-de-software
 
-# prioridade
-
-A prioridade e ter o aplicativo funcionado e testado neste sprint atual
