@@ -8,6 +8,8 @@ Esse e um aplicativo com a função de pode fazer um agendamento em um dia espec
 
 .Ferramenta usada:vscode
 
+.lista
+
 .Framework flet
 
 # como instalar
@@ -31,4 +33,22 @@ Lucas Alburquerque no codigo de agendamento
 # LINK DO TRELO
 
 https://trello.com/b/7hFNLd6m/trabalho-para-engenharia-de-software
+
+# Arquitetura geral do sistema
+
+* Lista
+
+Para guardar vários compromissos juntos.
+
+* Tupla
+
+Cada compromisso vem como um grupo de informações, por exemplo (id, título, data, hora).
+
+* Dicionário
+
+Para guardar informações do usuário, como nome, email e id.
+
+* Banco de dados (SQLite)
+
+Para salvar tudo de forma organizada e não perder os dados.
 
