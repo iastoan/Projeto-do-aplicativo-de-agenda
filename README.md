@@ -2,20 +2,6 @@
 Esse e um aplicativo com a função de pode fazer um agendamento em um dia especifico e se notificado naquele dia e hora marcado,enqaunto olha um calendario para decidir qual dia terar um lembrente ou não.
 
 
-# PAPEIS DOS CONTRIBUIDORES
-
-.Os participantes e suas funções são 
-
-Gustavo Lucena com codigo da agenda e a função de scrum master
-
-Wanderson Santos com a transformação em app e a função de product owner
-
-Caio Emilio com codigo de notificação
-
-Yan Abílio com front end
-
-Lucas Alburquerque no codigo de agendamento
-
 # tecnologias usadas
 
 .linguagem de programaação: Pyton
@@ -39,6 +25,8 @@ Wanderson Santos com a transformação em app e a função de product owner
 Caio Emilio com codigo de notificação
 
 Yan Abílio com front end
+
+Lucas Alburquerque no codigo de agendamento
 
 # LINK DO TRELO
 
