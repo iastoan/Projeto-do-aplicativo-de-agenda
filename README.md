@@ -8,8 +8,6 @@ Esse e um aplicativo com a função de pode fazer um agendamento em um dia espec
 
 .Ferramenta usada:vscode
 
-.lista
-
 .Framework flet
 
 # como instalar
