@@ -4,7 +4,7 @@ Esse e um aplicativo com a função de pode fazer um agendamento em um dia espec
 
 # tecnologias usadas
 
-.linguagem de programaação: Pyton
+.linguagem de programaação: Python
 
 .Ferramenta usada:vscode
 
